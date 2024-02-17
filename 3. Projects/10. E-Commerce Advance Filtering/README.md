@@ -1,3 +1,8 @@
+Фильтр для интернет-магазина на реакт
+
+https://www.youtube.com/watch?v=lfm_Hu0hEms
+Молодец мужик, разложил фильтрацию , будем пользоваться
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
